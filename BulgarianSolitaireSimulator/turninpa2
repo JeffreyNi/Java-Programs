@@ -1,0 +1,4 @@
+#
+# Unix command to submit pa2
+#
+submit -user csci455 -tag pa2 SolitaireBoard.java BulgarianSolitaireSimulator.java README
