@@ -1,9 +1,4 @@
 import java.util.Scanner;
-// Name: Jiafeng Ni
-// USC loginid: jiafengn
-// CSCI455 PA2
-// Spring 2015
-
 
 /**
  * class BulgarianSolitaireSimulator

@@ -1,11 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-// Name: Jiafeng Ni
-// USC loginid: jiafengn
-// CSCI455 PA2
-// Spring 2015
-
 /*
   class SolitaireBoard
   The board for Bulgarian Solitaire.  You can change what the total number of cards is for the game
